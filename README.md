@@ -1,6 +1,6 @@
 ![South korea night street photo](https://i.pinimg.com/originals/76/c4/a9/76c4a9c15b3ac51bb84ebe3775dc5420.jpg)
----
-# Moi
+
+# Présentation 👤
 Je suis Mathieu alias `Happistarz` développeur backend et jeux vidéos.
 
 ## Loisirs 🌠
@@ -19,7 +19,7 @@ Je suis Mathieu alias `Happistarz` développeur backend et jeux vidéos.
 - 📱 Développement Mobile Java, SQLite
 
 ## Certifications 🎓
-- #️⃣ C++ Avancée OpenClassroom
+- #️⃣  C++ Avancée OpenClassroom
 - 🗣 API REST OpenClassroom
 - ⚠ RootMe intermediaire
 
