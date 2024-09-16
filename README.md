@@ -25,8 +25,8 @@ Je suis Mathieu alias `Happistarz` développeur backend et jeux vidéos.
 
 ## Parcours
 - 🎓 Bac STI2D option SIN
-- 🟰 BTS SIO option SLAM
-- 🔜 Licence Intégrative option Informatique et Multimédia
+- 🎓 BTS SIO option SLAM
+- 🟰 Cursus Ingénieur Informatique et Multimédia
 
 <!--
 **Happistarz/Happistarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
