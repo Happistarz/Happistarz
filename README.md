@@ -1,32 +1,32 @@
 ![South korea night street photo](https://github.com/Happistarz/Happistarz/blob/main/github%20background.jpg)
 
-# Présentation 👤
-Je suis Mathieu alias `Happistarz` développeur backend et jeux vidéos.
+# Presentation 👤
+I am Mathieu RAVELEAU alias `Happistarz` a backend and game developer.
 
-## Loisirs 🌠
-- 💻 Développement de projets personnels
-- 🪐 Culture spatiale
-- 🔊 Musique
+## Hobbies 🌠
+- 💻 Personal projects development
+- 🪐 Space newsw
+- 🔊 Music composition & listening
 - 🏆 Esports LoL, Rocket League
-- 🎮 Jeux vidéos: Minecraft, LoL, Rocket League, etc...
+- 🎮 Video Games: Minecraft, LoL, Rocket League, etc...
 
-## Compétences 📚
-- ⚙ Développement Backend PHP
-- 🗣 Développement API REST AdonisJS
-- 🗄 Base de donnée Oracle, PostGreSQL, MySQL
-- 🎮 Réalisation jeux Unity, UE5, SFML, JavaFX
-- 🛠 Outils: Trello, GitHub, Visual Studio Code / Visual Studio, Intelij Idea, Android Studio
-- 📱 Développement Mobile Java, SQLite
+## Hard Skills 📚
+- ⚙  Backend PHP development
+- 🗣  API REST development
+- 🗄  Oracle, PostGreSQL, MySQL databases
+- 🎮 Unity, UE5, SFML, OpenGL, Godot game development
+- 🛠  Tools: Trello, GitHub, Visual Studio Code / Visual Studio, JetBrains, Android Studio
+- 📱 Android Mobile development Java, SQLite
 
 ## Certifications 🎓
-- #️⃣  C++ Avancée OpenClassroom
-- 🗣 API REST OpenClassroom
-- ⚠ RootMe intermediaire
+- #️⃣ Advanced C++ OpenClassroom
+- 🗣  API REST OpenClassroom
+- ⚠  RootMe intermediate
 
-## Parcours
-- 🎓 Bac STI2D option SIN
-- 🎓 BTS SIO option SLAM
-- 🟰 Cursus Ingénieur Informatique et Multimédia
+## Education
+- 🎓 Bacheloor STI2D SIN option (IT Highschool national diploma)
+- 🎓 BTS SIO SLAM option (two year's technical degree)
+- 🟰 Master's Degree in Computer Science
 
 <!--
 **Happistarz/Happistarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
